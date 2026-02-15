@@ -75,11 +75,11 @@ src/
 
 ##  Architecture Principles
 
-- ✅ Feature-first folder structure  
-- ✅ Separation of UI and business logic  
-- ✅ Scalable for multi-role systems  
-- ✅ Role-based navigation  
-- ✅ Reusable design tokens  
+- Feature-first folder structure  
+-  Separation of UI and business logic  
+-  Scalable for multi-role systems  
+-  Role-based navigation  
+-  Reusable design tokens  
 
 ---
 
