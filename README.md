@@ -84,9 +84,9 @@ src/
 ---
 
 
-## 📸 Screenshots
+##  Screenshots
 
-### 🏠 Dashboard
+###  Dashboard
 
 ![Dashboard Screenshot](./public/screenshots/screenshot1.png)
 
