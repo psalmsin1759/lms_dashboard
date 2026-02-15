@@ -11,7 +11,7 @@ Designed for:
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 | Layer | Technology |
 |-------|------------|
@@ -25,7 +25,7 @@ Designed for:
 
 ---
 
-## 📂 Project Structure (Feature-Based Architecture)
+##  Project Structure (Feature-Based Architecture)
 
 ```bash
 src/
@@ -82,6 +82,13 @@ src/
 - ✅ Reusable design tokens  
 
 ---
+
+
+## 📸 Screenshots
+
+### 🏠 Dashboard
+
+![Dashboard Screenshot](./public/screenshots/screenshot1.png)
 
 ##  Core LMS Modules
 
